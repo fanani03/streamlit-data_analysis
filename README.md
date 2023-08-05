@@ -12,3 +12,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ```
 streamlit run dashboard.py
+
+## Dashboard Streamlit
+
+Link : https://fanani03-dataanalysis-dicoding.streamlit.app/
