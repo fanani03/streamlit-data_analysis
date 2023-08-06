@@ -20,7 +20,7 @@ Link : https://fanani03-dataanalysis-dicoding.streamlit.app/
 
 Dokumentasi
 
-![[Screenshot_1.png]]
+[![[Screenshot_1.png]]](https://github.com/fanani03/streamlit-data_analysis/blob/master/Submission/Screenshot_1.png)https://github.com/fanani03/streamlit-data_analysis/blob/master/Submission/Screenshot_1.png
 ![[Screenshot_2.png]]
 
 ![[Screenshot_3.png]]
